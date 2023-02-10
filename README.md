@@ -2,8 +2,8 @@
 
 I'm Susan and i'm a Data Scientist
 - 🔭 I’m currently working on open source data with Hamoye.
-- 📫 Reach me: email: susantamunokubie@gmail.com linkedin: 
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+- 📫 Reach me: email: susantamunokubie@gmail.com 
+
 <!--
 **tahmee/tahmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
