@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Susan and i'm a Data Scientist
+- 🔭 I’m currently working on open source data with Hamoye.
+- 📫 Reach me: email: susantamunokubie@gmail.com linkedin: 
+
 <!--
 **tahmee/tahmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
