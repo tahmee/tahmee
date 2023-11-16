@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Susan and i'm a Data Scientist
+I'm Susan and i'm a Data Scientist | Data engineer.
 - 🔭 I’m passionate about problem solving and a critcial thinker.
 - 📫 Reach me: email: susantamunokubie@gmail.com 
 
