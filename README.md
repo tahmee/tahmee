@@ -2,8 +2,8 @@
 
 Welcome to my Hub.  
 
-I'm Susan and i'm a Data Scientist | Data engineer.
-- 🔭 I’m passionate about problem solving and a critcial thinker.
+I'm Susan, a Data engineer & scientist.
+- 🔭 I’m passionate about problem solving.
 - 📫 Reach me: email: susantamunokubie@gmail.com 
 
 <!--
