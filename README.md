@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there I'm Susan!
 
 Welcome to my Hub.  
 
