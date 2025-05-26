@@ -1,11 +1,10 @@
 ### 👋 Hi there!
-
 Welcome to my Hub! 
 
 ## 🚀 About Me
 
 - 🔄 Transitioning from Data Science to Data Engineering
-- 🛠️ Currently focused building on Python, SQL, Data Modeling & Warehousing
+- 🛠️ Currently focused on building with Python, SQL, Data Modeling & Warehousing
 - ⏱️ Learning and building weekly projects to reinforce my skills
 
 ## 🧩 Projects
@@ -16,9 +15,7 @@ Check out my repositories to see:
 - 🌱 Progressively more advanced work as I grow
 
 ## 🌍 Connect With Me
-
 I’m always looking to connect with fellow learners, data enthusiasts, and mentors. Let’s grow together!
-
 
 Don’t forget to follow along, I’ll be uploading new projects weekly as I advance in my data engineering journey!
 
