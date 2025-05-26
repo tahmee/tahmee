@@ -20,7 +20,7 @@ Check out my repositories to see:
 I’m always looking to connect with fellow learners, data enthusiasts, and mentors. Let’s grow together!
 
 
-⭐️ Don’t forget to follow along — I’ll be uploading new projects weekly as I advance in my data engineering journey!
+Don’t forget to follow along, I’ll be uploading new projects weekly as I advance in my data engineering journey!
 
 <!--
 **tahmee/tahmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
