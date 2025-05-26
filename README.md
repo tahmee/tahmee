@@ -5,7 +5,7 @@ Welcome to my Hub!
 
 - 🔄 Transitioning from Data Science to Data Engineering
 - 🛠️ Currently focused on building with Python, SQL, Data Modeling & Warehousing
-- ⏱️ Learning and building weekly projects to reinforce my skills
+- ⏱️ Learning and building bi-weekly projects to reinforce my skills
 
 ## 🧩 Projects
 
