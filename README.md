@@ -2,9 +2,6 @@
 
 Welcome to my Hub! 
 
-
-Welcome to my GitHub! I’m a Data Engineer-in-progress with a background in Data Science and a passion for turning raw data into powerful solutions.
-
 ## 🚀 About Me
 
 - 🔄 Transitioning from Data Science to Data Engineering
